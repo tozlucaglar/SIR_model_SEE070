@@ -13,7 +13,11 @@ Among the information you received, try to identify one or few simplemathematica
 Compare  your  concept  map  with  the  observations  you  made  in  Walk  and  talk  II:  The  places  COVID-19touched.  Were  your  observation  consistent  with  the  “best”  advise  you  would  have  given  if  you  were  theexpert after studying these models?
 
 In a group of 4, make a pecha-kucha presentation (a slide show with 20 slides where each slide stays forexactly 20 second) that includes at least the following:
+
 • a Concept Mapof how corona virus spread and possible interventions;
+
 • present amathematical model(s)that can make a prediction of the outbreak and a critique of themodel(s) based on what you learn in the other classes, such as Evolution i biologiska system, Linj ̈aralgebra och experimentell matematik, etc.;
+
 • compare the knowledge you learn from the model and the experience you had in Walk and talk II: Theplaces COVID-19 touched, point out the gaps and inconsistencies and reflect on why the gaps existand what can be done about them?
+
 • Upload  your  model  to  Github  or  any  website  that  supports  Open  Model/Open  Code/Open  source.Make sure that the model is easily to assess and fully documented. Download a model developed bythe other team from this class. Run their model and compare with your results.
