@@ -22,4 +22,4 @@ In a group of 4, make a pecha-kucha presentation (a slide show with 20 slides wh
 
 • Upload  your  model  to  Github  or  any  website  that  supports  Open  Model/Open  Code/Open  source.Make sure that the model is easily to assess and fully documented. Download a model developed bythe other team from this class. Run their model and compare with your results.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tozlucaglar/SIR_model_SEE070/blob/main/SIR_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
