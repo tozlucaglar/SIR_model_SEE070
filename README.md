@@ -21,3 +21,5 @@ In a group of 4, make a pecha-kucha presentation (a slide show with 20 slides wh
 • compare the knowledge you learn from the model and the experience you had in Walk and talk II: Theplaces COVID-19 touched, point out the gaps and inconsistencies and reflect on why the gaps existand what can be done about them?
 
 • Upload  your  model  to  Github  or  any  website  that  supports  Open  Model/Open  Code/Open  source.Make sure that the model is easily to assess and fully documented. Download a model developed bythe other team from this class. Run their model and compare with your results.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tozlucaglar/SIR_model_SEE070/blob/main/SIR_model.ipynb)
